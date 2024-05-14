@@ -18,6 +18,7 @@ public class LoopsJava {
 		int j=20;
 		for (j=40;j>=1;j=j-2) {
 			System.out.println(j);
+			System.out.println("End Of Program");
 		}
 	}
 
